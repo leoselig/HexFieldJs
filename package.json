@@ -1,0 +1,34 @@
+{
+	"name":            "jsObjective",
+	"version":         "0.0.1",
+	"description":     "jsObjective\r ===========",
+	"main":            "src/main/main.js",
+	"dependencies":    {},
+	"devDependencies": {
+		"mocha":                "~1.14.0",
+		"grunt-mocha-test":     "~0.8.0",
+		"grunt":                "~0.4.2",
+		"grunt-contrib-clean":  "~0.5.0",
+		"grunt-contrib-yuidoc": "~0.5.0",
+		"grunt-contrib-copy":   "~0.4.1",
+		"sinon":                "~1.7.3",
+		"should":               "~2.1.0"
+	},
+	"scripts":         {
+		"test": "grunt test"
+	},
+	"repository":      {
+		"type": "git",
+		"url":  "https://github.com/leoselig/jsObjective.git"
+	},
+	"keywords":        [
+		"oop",
+		"objective",
+		"object",
+		"oriented"
+	],
+	"author":          "Leo Selig",
+	"license":         "MIT",
+	"readmeFilename":  "README.md",
+	"gitHead":         "18c5bea61c0e41703317e947fa3845d6705ffe85"
+}
